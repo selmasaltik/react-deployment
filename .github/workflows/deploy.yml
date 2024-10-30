@@ -39,6 +39,6 @@ jobs:
         with:
           project: "selmasaltk-react-deplo-52"
           entrypoint: "https://deno.land/std@0.217.0/http/file_server.ts"
-          root: "build"
+          root: "23-react-deployment/build"
           
           
