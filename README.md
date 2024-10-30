@@ -31,3 +31,8 @@ Only HTML, CSS & JavaScript
 [5 of the Best Static Website Hosting Services](https://buttercms.com/blog/5-best-static-website-hosting-services/)
 
 [10 Free Web Hosting Solutions for Static and Dynamic Sites](https://dev.to/anticoder03/10-free-web-hosting-solutions-for-static-and-dynamic-sites-48g1)
+
+[Firebase Hosting](https://firebase.google.com/docs/hosting)
+
+- https://react-deployment-demo-4ab16.web.app/
+- https://react-deployment-demo-4ab16.firebaseapp.com/
