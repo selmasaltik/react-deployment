@@ -28,11 +28,15 @@ Only HTML, CSS & JavaScript
 
 ***A static site host is needed***
 
-[5 of the Best Static Website Hosting Services](https://buttercms.com/blog/5-best-static-website-hosting-services/)
-
-[10 Free Web Hosting Solutions for Static and Dynamic Sites](https://dev.to/anticoder03/10-free-web-hosting-solutions-for-static-and-dynamic-sites-48g1)
-
 [Firebase Hosting](https://firebase.google.com/docs/hosting)
 
 - https://react-deployment-demo-4ab16.web.app/
 - https://react-deployment-demo-4ab16.firebaseapp.com/
+
+**[Server-side Routing vs Client-side Routing](https://www.canva.com/design/DAGVErNh7xE/XeFWKghqcj7fAFEVrUD4eA/view?utm_content=DAGVErNh7xE&utm_campaign=designshare&utm_medium=link&utm_source=editor)**
+
+**Resources**
+
+* [5 of the Best Static Website Hosting Services](https://buttercms.com/blog/5-best-static-website-hosting-services/)
+
+* [10 Free Web Hosting Solutions for Static and Dynamic Sites](https://dev.to/anticoder03/10-free-web-hosting-solutions-for-static-and-dynamic-sites-48g1)
